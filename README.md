@@ -25,6 +25,33 @@ Principles:
 - AL Source Analysis
 - Known Bugs
 
+## File Structure
+
+```
+README.md
+Investigation_Methodology.md
+AL Source Analysis/
+    ProcessQueryLine.md
+Campaigns/
+    Campaign_Setup.md
+Dynamic Queries/
+    Investigation_Log.md
+    Known_Query_Bugs.md 
+    LSC_Dynamic_Query_Playbook.md
+    Query_Examples.md
+Tables/
+    Member_Account.al
+    Member_Contact.al
+    Member_Login.al
+    Member_login_card.al
+    Membership_Card.al
+Templates/
+    Finding_Template.md
+Source_Evidence/
+    ProcessDateFilter.al
+    ProcessQueryLine.al
+```
+
 ## Version History
 
 | LS Version | Status |
